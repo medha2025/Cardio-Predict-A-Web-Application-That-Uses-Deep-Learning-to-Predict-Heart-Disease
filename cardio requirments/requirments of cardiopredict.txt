@@ -1,0 +1,9 @@
+Flask 
+Html
+Css
+JavaScript
+Python
+Scikit-learn
+Pandas
+Numerical computation Matplotlib/Seaborn
+For data visualization ,TensorFlow/Keras
