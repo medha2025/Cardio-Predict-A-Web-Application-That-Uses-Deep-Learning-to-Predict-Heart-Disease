@@ -1,0 +1,2 @@
+# Cardio-Predict-A-Web-Application-That-Uses-Deep-Learning-to-Predict-Heart-Disease
+CardioPredict is a web application that uses deep learning to predict heart disease risk from patient medical data. Using the Cleveland Heart Disease dataset, the system performs preprocessing, feature scaling, and neural network training classify patients  having heart disease (1) or not(0), supporting early diagnosis and clinical decision making.
